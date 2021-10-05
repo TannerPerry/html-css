@@ -1,0 +1,27 @@
+Body{
+    background-color: lightgray;
+    width: 100%;
+    height: 100vh;
+    margin: 0 ;
+}
+
+.dark-grey-top{
+    height: 10vh;
+    width: 100%;
+    background-color: #444444
+}
+
+.white-middle{
+    height: 70vh;
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
+
+}
+
+.black-bottom{
+    background-color: black;
+    margin: 0 auto;
+    width: 75%;
+    height: 20vh;
+}
